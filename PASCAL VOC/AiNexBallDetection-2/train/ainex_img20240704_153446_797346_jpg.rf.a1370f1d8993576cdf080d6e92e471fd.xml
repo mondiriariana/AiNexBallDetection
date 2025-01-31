@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>ainex_img20240704_153446_797346_jpg.rf.a1370f1d8993576cdf080d6e92e471fd.jpg</filename>
+	<path>ainex_img20240704_153446_797346_jpg.rf.a1370f1d8993576cdf080d6e92e471fd.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>453</xmin>
+			<xmax>488</xmax>
+			<ymin>53</ymin>
+			<ymax>107</ymax>
+		</bndbox>
+	</object>
+</annotation>

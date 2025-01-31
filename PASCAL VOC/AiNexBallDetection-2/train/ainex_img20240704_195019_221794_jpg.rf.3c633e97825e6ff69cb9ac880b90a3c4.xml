@@ -1,0 +1,14 @@
+<annotation>
+	<folder></folder>
+	<filename>ainex_img20240704_195019_221794_jpg.rf.3c633e97825e6ff69cb9ac880b90a3c4.jpg</filename>
+	<path>ainex_img20240704_195019_221794_jpg.rf.3c633e97825e6ff69cb9ac880b90a3c4.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>

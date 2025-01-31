@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['ball']
+
+roboflow:
+  workspace: ariana-lq3nf
+  project: ainex_view_ball
+  version: 4
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/ariana-lq3nf/ainex_view_ball/dataset/4
